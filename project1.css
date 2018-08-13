@@ -1,0 +1,60 @@
+body{
+    font-family: 'Arvo', serif;
+    text-align: center ;
+    color:#fff;
+  }
+  #main{
+    margin:25px auto;
+    padding: 20px;
+    border:1px solid #063971;
+    border-radius: 5px;
+    background: #063971;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  
+  #image{
+    max-width: 100%;
+    height: auto;
+    margin:auto;
+    display:block;
+  }
+  #img-div{
+    margin:-5px;
+    margin-top:20px;
+    width:100%;
+    border:5px solid white;
+    background:#063971;
+    border-radius: 5px;
+    padding: 0px;
+  }
+  #img-caption{
+    margin: 25px;
+    }
+  
+  h2 {
+    margin-top: 50px
+  }
+  ul{
+    text-align: left;
+    max-width: 100%;
+  
+  }
+  li{
+    padding: 5px;
+    margin: 5px
+  }
+  blockquote{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 30px
+  }
+  .note{
+  
+    text-align: left;
+    font-size: 20px;
+    margin-top: -30px;
+  }
+  #tribute-link{
+    font-size: 25px;
+    color:white;
+  }
